@@ -4,11 +4,11 @@ Open the google drive (url = https://drive.google.com/drive/my-drive), sign in w
 
 ## Upload .csv data files
 
-For this assignment, there are two data files called "Governing_Law.csv" and "Anti_assignment_CIC_g3.csv". As the picture show below, click on the red box button and choose these two files. ![Example position of how to upload data files](https://github.com/SaberIvan/cloudComputing/blob/main/fileUpload.png)
+For this assignment, there are two data files called "Governing_Law.csv" and "Anti_assignment_CIC_g3.csv". As the picture show below, click on the red box button and choose these two files. ![Example position of how to upload data files](fileUpload.png)
 After uploading, the file will appear in the sidebar.
 
 ## Run each cell through "run cell" button(As the picture shows below)
 
-![Run](https://github.com/SaberIvan/cloudComputing/blob/main/run.png)
+![Run](run.png)
 
 
