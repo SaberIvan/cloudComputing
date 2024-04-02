@@ -17,7 +17,7 @@ Designed by Dr. Ying Zhou, this assignment challenges students to extract keywor
 
 ### Task Overview
 
-Students are tasked with implementing an extraction algorithm using basic Spark RDD API operations to analyze "Governing Law", "Change of Control", and "Anti-assignment" clauses. The goal is to extract the top 20 keywords from these categories.
+Tasked with implementing an extraction algorithm using basic Spark RDD API operations to analyze "Governing Law", "Change of Control", and "Anti-assignment" clauses. The goal is to extract the top 20 keywords from these categories.
 
 ### Deliverables
 
